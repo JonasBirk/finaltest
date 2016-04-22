@@ -1,5 +1,5 @@
 package de.hdm.gruppe09.test;
 
-public class Testklasse {
+public class NeueKlasse {
 
 }
